@@ -1,9 +1,0 @@
-
-L
-java:S3740
-"/Provide the parametrized type for this generic.(½ï™µ8¡ıƒñ1
-r
-java:S11922"UDefine a constant instead of duplicating this literal "Sentiment score --> " 3 times.(ø‘™œ8¡ıƒñ1
-{	java:S115	"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çé§¿úÿÿÿÿ8‚şƒñ1
-]
-java:S1119"";Refactor the code to remove this label and the need for it.(÷ÇÃ›ùÿÿÿÿ8‰şƒñ1
